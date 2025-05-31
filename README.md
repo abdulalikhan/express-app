@@ -1,3 +1,3 @@
 ## express app
 
-Access with browser http://localhost:8080
+Access app on port 8080
